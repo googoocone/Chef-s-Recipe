@@ -1,0 +1,5 @@
+yt-dlp
+youtube-transcript-api
+google-generativeai
+supabase
+python-dotenv
